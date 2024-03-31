@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Rajdeep Deogharia.
-A passionate Cloud and DevOps enthusiast dedicated to lifelong learning and hands-on experience with cutting-edge tools and technologies.
+A passionate Cloud and DevOps enthusiast dedicated to lifelong learning and having hands-on experience with cutting-edge technologies.
 
 ## 🔧 Tools & Technologies
  
