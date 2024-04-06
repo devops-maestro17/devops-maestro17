@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Cloud and DevOps aficionado from India dedicated to lifelong learning and having hands-on experience with cutting-edge technologies.</h3>
 
 - 🌱 I’m currently learning **Monitoring tools (Prometheus & Grafana)**
+- 👯 I’m looking to collaborate on **Cloud Native Projects**
 
 - 📫 How to reach me **deogharia.rajdeep@outlook.com**
 
