@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*uCt6VzHQTovc1j65.png)]]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*uCt6VzHQTovc1j65.png)
 
 
 <h1 align="center">Hi 👋, I'm Rajdeep Deogharia</h1>
