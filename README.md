@@ -1,11 +1,7 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*uCt6VzHQTovc1j65.png)
-
-
 <h1 align="center">Hi 👋, I'm Rajdeep Deogharia</h1>
 <h3 align="center">A passionate Cloud and DevOps enthusiast from India dedicated to lifelong learning and having hands-on experience with cutting-edge technologies.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif">
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 - 🌱 I’m currently learning **Monitoring tools (Prometheus & Grafana)**
 
