@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif)
+![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1czIzNTlpNjFiZmtoeGk3eDNpbzJhMGl4YnhoMzE1Zm92b2p0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <h1 align="center">Hi 👋, I'm Rajdeep Deogharia</h1>
 <h3 align="center">A passionate Cloud and DevOps aficionado from India dedicated to lifelong learning and having hands-on experience with cutting-edge technologies.</h3>
