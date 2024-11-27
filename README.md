@@ -1,7 +1,7 @@
 ![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjR1czIzNTlpNjFiZmtoeGk3eDNpbzJhMGl4YnhoMzE1Zm92b2p0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<h1 align="center">Hi 👋, I'm Rajdeep Deogharia</h1>
-<h3 align="center">A passionate Cloud and DevOps aficionado from India dedicated to lifelong learning and having hands-on experience with cutting-edge technologies.</h3>
+<h1 align="left">Hi 👋, I'm Rajdeep Deogharia</h1>
+<h3 align="left">A passionate Cloud and DevOps aficionado from India dedicated to lifelong learning and having hands-on experience with cutting-edge technologies.</h3>
 
 - 🌱 I’m currently learning **Monitoring tools (Prometheus & Grafana)**
 - 👯 I’m looking to collaborate on **Cloud Native Projects**
